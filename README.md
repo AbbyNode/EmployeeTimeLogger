@@ -1,8 +1,10 @@
 # EmployeeTimeLogger
 
+## Download/Install
+[Employee Time Logger v1.0](https://github.com/AbbyNode/EmployeeTimeLogger/releases/download/v1.0/EmployeeTimeLogger.jar)  
+Requires Java 8+  
 
 ## Screenshots
-
 Daily View
 ![Daily View](https://i.imgur.com/nDkJeze.png)
 
