@@ -5,7 +5,7 @@
 Requires Java 8+  
 
 ## Screenshots
-Daily View
+Daily View  
 ![Daily View](https://i.imgur.com/nDkJeze.png)
 
 Admin View
